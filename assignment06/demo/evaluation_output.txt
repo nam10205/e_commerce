@@ -1,0 +1,163 @@
+{
+  "metric": "Top-1 success on fixed hand-labeled fixture queries (correct empty output counts)",
+  "total": 12,
+  "successful": 10,
+  "success_rate": 0.8333333333333334,
+  "cases": [
+    {
+      "id": "T01",
+      "mode": "text",
+      "input": "black shoes",
+      "expected_top1": [
+        1,
+        5
+      ],
+      "actual_top1": 5,
+      "name": "Nike Everyday Shoes",
+      "score": 1.0,
+      "success": true
+    },
+    {
+      "id": "T02",
+      "mode": "voice",
+      "input": "find running shoes",
+      "expected_top1": [
+        1,
+        2,
+        4
+      ],
+      "actual_top1": 4,
+      "name": "Blue Sports Shoes",
+      "score": 1.0,
+      "success": true
+    },
+    {
+      "id": "T03",
+      "mode": "image",
+      "input": "query_black_shoe.png",
+      "expected_top1": [
+        1,
+        5
+      ],
+      "actual_top1": 5,
+      "name": "Nike Everyday Shoes",
+      "score": 0.9999986923834566,
+      "success": true
+    },
+    {
+      "id": "T04",
+      "mode": "text",
+      "input": "find Nike shoes under 100 dollars",
+      "expected_top1": [
+        5
+      ],
+      "actual_top1": 5,
+      "name": "Nike Everyday Shoes",
+      "score": 1.0,
+      "success": true
+    },
+    {
+      "id": "T05",
+      "mode": "text",
+      "input": "white shirt",
+      "expected_top1": [
+        7
+      ],
+      "actual_top1": 7,
+      "name": "White Cotton Shirt",
+      "score": 1.0,
+      "success": true
+    },
+    {
+      "id": "T06",
+      "mode": "text",
+      "input": "blue backpack",
+      "expected_top1": [
+        9
+      ],
+      "actual_top1": 9,
+      "name": "Blue Backpack",
+      "score": 1.0,
+      "success": true
+    },
+    {
+      "id": "T07",
+      "mode": "multimodal",
+      "input": "black shoes",
+      "expected_top1": [
+        1,
+        5
+      ],
+      "actual_top1": 5,
+      "name": "Nike Everyday Shoes",
+      "score": 0.9999993461917283,
+      "success": true
+    },
+    {
+      "id": "T08",
+      "mode": "order",
+      "input": "find order O001",
+      "expected_top1": [
+        "O001"
+      ],
+      "actual_top1": "O001",
+      "name": "O001",
+      "score": null,
+      "success": true
+    },
+    {
+      "id": "T09",
+      "mode": "order",
+      "input": "where is my latest order",
+      "expected_top1": [
+        "20261001"
+      ],
+      "actual_top1": "20261001",
+      "name": "20261001",
+      "score": null,
+      "success": true
+    },
+    {
+      "id": "T10",
+      "mode": "text",
+      "input": "spaceship",
+      "expected_top1": [
+        null
+      ],
+      "actual_top1": null,
+      "name": "No results",
+      "score": null,
+      "success": true
+    },
+    {
+      "id": "T11",
+      "mode": "text",
+      "input": "sneekers",
+      "expected_top1": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "actual_top1": null,
+      "name": "No results",
+      "score": null,
+      "success": false
+    },
+    {
+      "id": "T12",
+      "mode": "text",
+      "input": "not black shoes",
+      "expected_top1": [
+        2,
+        4,
+        6
+      ],
+      "actual_top1": 5,
+      "name": "Nike Everyday Shoes",
+      "score": 0.6833333333333333,
+      "success": false
+    }
+  ]
+}

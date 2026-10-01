@@ -1,0 +1,13 @@
+﻿id,mode,input,expected_top1,actual_top1,name,score,success
+T01,text,black shoes,"[1, 5]",5,Nike Everyday Shoes,1.0,True
+T02,voice,find running shoes,"[1, 2, 4]",4,Blue Sports Shoes,1.0,True
+T03,image,query_black_shoe.png,"[1, 5]",5,Nike Everyday Shoes,0.9999986923834566,True
+T04,text,find Nike shoes under 100 dollars,[5],5,Nike Everyday Shoes,1.0,True
+T05,text,white shirt,[7],7,White Cotton Shirt,1.0,True
+T06,text,blue backpack,[9],9,Blue Backpack,1.0,True
+T07,multimodal,black shoes,"[1, 5]",5,Nike Everyday Shoes,0.9999993461917283,True
+T08,order,find order O001,['O001'],O001,O001,,True
+T09,order,where is my latest order,['20261001'],20261001,20261001,,True
+T10,text,spaceship,[None],,No results,,True
+T11,text,sneekers,"[1, 2, 4, 5, 6]",,No results,,False
+T12,text,not black shoes,"[2, 4, 6]",5,Nike Everyday Shoes,0.6833333333333333,False

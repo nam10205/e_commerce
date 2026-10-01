@@ -1,0 +1,18 @@
+test_bad_image_rejected (test_system.SystemTests.test_bad_image_rejected) ... ok
+test_category_filter (test_system.SystemTests.test_category_filter) ... ok
+test_cosine_zero_and_dimensions (test_system.SystemTests.test_cosine_zero_and_dimensions) ... ok
+test_empty_query_rejected (test_system.SystemTests.test_empty_query_rejected) ... ok
+test_image_retrieval (test_system.SystemTests.test_image_retrieval) ... ok
+test_latest_order (test_system.SystemTests.test_latest_order) ... ok
+test_multimodal_weight_validation (test_system.SystemTests.test_multimodal_weight_validation) ... ok
+test_order_is_scoped_to_customer (test_system.SystemTests.test_order_is_scoped_to_customer) ... ok
+test_price_filter_is_strict (test_system.SystemTests.test_price_filter_is_strict) ... ok
+test_stock_signal (test_system.SystemTests.test_stock_signal) ... ok
+test_text_and_simulated_voice_equivalent (test_system.SystemTests.test_text_and_simulated_voice_equivalent) ... ok
+test_topk_validation (test_system.SystemTests.test_topk_validation) ... ok
+test_unknown_keywords_empty (test_system.SystemTests.test_unknown_keywords_empty) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.069s
+
+OK

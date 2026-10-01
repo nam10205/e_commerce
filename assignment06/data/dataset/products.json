@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Running Shoes",
+    "category": "shoes",
+    "color": "black",
+    "price": 120,
+    "stock": 10,
+    "brand": "Nike",
+    "description": "running sport footwear",
+    "image": "images/product_01.png"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Running Shoes",
+    "category": "shoes",
+    "color": "white",
+    "price": 100,
+    "stock": 15,
+    "brand": "Adidas",
+    "description": "running sport footwear",
+    "image": "images/product_02.png"
+  },
+  {
+    "id": 3,
+    "name": "Black Leather Bag",
+    "category": "bag",
+    "color": "black",
+    "price": 80,
+    "stock": 20,
+    "brand": "Urban",
+    "description": "bag everyday fashion",
+    "image": "images/product_03.png"
+  },
+  {
+    "id": 4,
+    "name": "Blue Sports Shoes",
+    "category": "shoes",
+    "color": "blue",
+    "price": 75,
+    "stock": 12,
+    "brand": "Sport",
+    "description": "running sport footwear",
+    "image": "images/product_04.png"
+  },
+  {
+    "id": 5,
+    "name": "Nike Everyday Shoes",
+    "category": "shoes",
+    "color": "black",
+    "price": 90,
+    "stock": 8,
+    "brand": "Nike",
+    "description": "shoes everyday fashion",
+    "image": "images/product_05.png"
+  },
+  {
+    "id": 6,
+    "name": "Red Running Shoes",
+    "category": "shoes",
+    "color": "red",
+    "price": 85,
+    "stock": 0,
+    "brand": "Puma",
+    "description": "running sport footwear",
+    "image": "images/product_06.png"
+  },
+  {
+    "id": 7,
+    "name": "White Cotton Shirt",
+    "category": "shirt",
+    "color": "white",
+    "price": 25,
+    "stock": 30,
+    "brand": "Basic",
+    "description": "shirt everyday fashion",
+    "image": "images/product_07.png"
+  },
+  {
+    "id": 8,
+    "name": "Black Cotton Shirt",
+    "category": "shirt",
+    "color": "black",
+    "price": 30,
+    "stock": 18,
+    "brand": "Basic",
+    "description": "shirt everyday fashion",
+    "image": "images/product_08.png"
+  },
+  {
+    "id": 9,
+    "name": "Blue Backpack",
+    "category": "backpack",
+    "color": "blue",
+    "price": 60,
+    "stock": 9,
+    "brand": "Travel",
+    "description": "backpack everyday fashion",
+    "image": "images/product_09.png"
+  },
+  {
+    "id": 10,
+    "name": "Red Leather Bag",
+    "category": "bag",
+    "color": "red",
+    "price": 95,
+    "stock": 6,
+    "brand": "Urban",
+    "description": "bag everyday fashion",
+    "image": "images/product_10.png"
+  },
+  {
+    "id": 11,
+    "name": "Black Backpack",
+    "category": "backpack",
+    "color": "black",
+    "price": 65,
+    "stock": 11,
+    "brand": "Travel",
+    "description": "backpack everyday fashion",
+    "image": "images/product_11.png"
+  },
+  {
+    "id": 12,
+    "name": "Blue Cotton Shirt",
+    "category": "shirt",
+    "color": "blue",
+    "price": 28,
+    "stock": 24,
+    "brand": "Basic",
+    "description": "shirt everyday fashion",
+    "image": "images/product_12.png"
+  }
+]

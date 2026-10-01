@@ -1,0 +1,25 @@
+Screenshots for the report
+
+1. Reopen uml/assignment06_multimodal_search_final.vpp in Visual Paradigm.
+   This is the final project. An older project may still be open in VP.
+2. Open these diagrams from the Diagram Navigator (Ctrl+Shift+B):
+   01 - Use Case Model
+   02 - Three-Layer Components
+   03 - Voice Search Sequence
+3. Adjust the zoom so all elements and labels are readable. Capture the
+   diagram canvas with the Windows Snipping Tool. Use your own screenshots.
+4. Open report/Bao_cao_Assignment06_Tran_Hai_Nam_EDITABLE_DRAFT.docx in Word.
+   Replace Figure 1 with Use Case, Figure 2 with Components, and Figure 3
+   with Voice Sequence. Right-click the image, then Change Picture > From
+   a File. Keep the existing figure captions and image proportions.
+5. Check the page layout, save the Word report, and save/export it as PDF.
+   Use the same PDF name to replace the supplied reference PDF.
+
+The supplied report images are native VP exports and retain the evaluation
+watermark. They are reference images, not screenshots. The native .vpp
+project contains editable UML actors, use cases, components, lifelines,
+activations, and relationships.
+
+The PDF has been rendered and checked. The optional editable Word draft
+has been structurally checked, but its page layout could not be previewed
+in this environment. Check all pages after replacing the screenshots.

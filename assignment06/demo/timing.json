@@ -1,0 +1,7 @@
+{
+  "runs": 100,
+  "query": "black shoes",
+  "mean_ms": 0.135603000089759,
+  "p95_ms": 0.1528000066173263,
+  "includes_initialization": false
+}
